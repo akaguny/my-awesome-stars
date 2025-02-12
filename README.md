@@ -161,6 +161,7 @@
 
 ## C++ 
 
+- [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [nockanda/balance_board](https://github.com/nockanda/balance_board) - Make a balance board using Arduino and two electronic scales!
 - [TheAssassin/AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages
 - [bbidulock/icewm](https://github.com/bbidulock/icewm) - A window manager designed for speed, usability, and consistency
@@ -399,6 +400,7 @@
 
 ## HTML 
 
+- [LunarEclipse363/agewasm](https://github.com/LunarEclipse363/agewasm) - A simple and secure online client-side Age key generator, encryption and decryption tool built using wasm
 - [kamilstanuch/LLM-token-generation-simulator](https://github.com/kamilstanuch/LLM-token-generation-simulator) - 
 - [conversejs/pluggable.js](https://github.com/conversejs/pluggable.js) - Lets you make your JS project pluggable while still keeping sensitive objects and data private through closures.
 - [CoolCoderSJ/inviter](https://github.com/CoolCoderSJ/inviter) - create smooth, reusable invite links for github organizations
@@ -406,6 +408,7 @@
 - [continuedev/amplified.dev](https://github.com/continuedev/amplified.dev) - 🔊 We believe in a future where developers are amplified, not automated
 - [qniapp/qni](https://github.com/qniapp/qni) - Quantum live-programming app that runs in your browser.
 - [pajasevi/CSSnowflakes](https://github.com/pajasevi/CSSnowflakes) - CSS snowlakes for your website, no JS nedded!!
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [meichthys/foss_note_apps](https://github.com/meichthys/foss_note_apps) - Free and Open Source Note Taking Applications
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -541,6 +544,7 @@
 
 ## JavaScript 
 
+- [patorjk/image-quilter](https://github.com/patorjk/image-quilter) - Image quilting implementation.
 - [MineDojo/Voyager](https://github.com/MineDojo/Voyager) - An Open-Ended Embodied Agent with Large Language Models
 - [Huguet57/LLM-analyzer](https://github.com/Huguet57/LLM-analyzer) - A webapp to analyze the System Requirements needed to run inference
 - [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) - A Model-Context Protocol Server for YouTube
@@ -887,7 +891,6 @@
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
 - [readmeio/standards](https://github.com/readmeio/standards) - Core coding standards for ReadMe projects.
 - [readmeio/openapi-parser](https://github.com/readmeio/openapi-parser) - Swagger 2.0 and OpenAPI 3.x parser/validator
-- [readmeio/oas-examples](https://github.com/readmeio/oas-examples) - A collection of example OpenAPI 3.x and Swagger 2.0 documents.
 - [fastify/fastify-helmet](https://github.com/fastify/fastify-helmet) - Important security headers for Fastify
 - [alohaeditor/Aloha-Editor](https://github.com/alohaeditor/Aloha-Editor) - Aloha Editor is a JavaScript content editing library
 - [guocaoyi/create-chrome-ext](https://github.com/guocaoyi/create-chrome-ext) - 🍺 Scaffolding your Chrome extension! Boilerplates: react \ vue \ svelte \ solid \ preact \ alpine \ lit \ stencil \ inferno \ vanilla
@@ -961,7 +964,6 @@
 - [DavidWells/types-with-jsdocs](https://github.com/DavidWells/types-with-jsdocs) - Using JSDoc for Typescript Types
 - [sindresorhus/open-editor](https://github.com/sindresorhus/open-editor) - Open files in your editor at a specific line and column
 - [andrewiggins/tachometer-reporter-action](https://github.com/andrewiggins/tachometer-reporter-action) - Report the results of Polymer/tachometer in a comment for PRs
-- [taiga-family/configurations](https://github.com/taiga-family/configurations) - ESlint, Stylelint and Prettier and more configurations
 - [metarhia/impress](https://github.com/metarhia/impress) - Enterprise application server for Node.js and Metarhia private cloud ⚡
 - [metarhia/metautil](https://github.com/metarhia/metautil) - Metarhia utilities 🧰
 - [WebReflection/nonchalance](https://github.com/WebReflection/nonchalance) - The easiest way to augment DOM builtin elements.
@@ -978,7 +980,7 @@
 - [vlasmn/stamps](https://github.com/vlasmn/stamps) - Открытая коллекция почтовых марок разных стран, культур и годов выпуска
 - [douglascrockford/JSON-js](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
-- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, flow, markdown, yaml and json. W
+- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, markdown, yaml and json. Write d
 - [github/markdown-toolbar-element](https://github.com/github/markdown-toolbar-element) - Markdown formatting buttons for text inputs.
 - [opendocx/yatte](https://github.com/opendocx/yatte) - Yet Another Text Templating Engine
 - [github/auto-check-element](https://github.com/github/auto-check-element) - An input element that validates its value with a server endpoint.
@@ -1177,7 +1179,6 @@
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [nolanlawson/marky](https://github.com/nolanlawson/marky) - High-resolution JavaScript timer based on performance.mark/measure (491 bytes min+gz)
 - [bespokejs/bespoke](https://github.com/bespokejs/bespoke) - DIY Presentation Micro-Framework
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [webpro/reveal-md](https://github.com/webpro/reveal-md) - reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 - [BridgeAR/safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify) - Safe, deterministic and fast serialization alternative to JSON.stringify.
 - [epoberezkin/fast-json-stable-stringify](https://github.com/epoberezkin/fast-json-stable-stringify) - Deterministic JSON.stringify() - a faster version of @substack's json-stable-strigify without jsonify.
@@ -1725,6 +1726,7 @@
 
 ## Jupyter Notebook 
 
+- [fireducks-dev/fireducks](https://github.com/fireducks-dev/fireducks) - Create an issue on FireDucks
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 - [NirDiamant/GenAI_Agents](https://github.com/NirDiamant/GenAI_Agents) - This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI s
@@ -1736,6 +1738,7 @@
 
 ## Kotlin 
 
+- [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) - Android mobile git client for syncing a repository between remote and a local directory
 - [bluelovers/idea-run-typescript](https://github.com/bluelovers/idea-run-typescript) - IntelliJ IDEA (and WebStorm...) plugin to support 'TypeScript' as a run configuration
 - [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
 - [valentjn/ltex-ls](https://github.com/valentjn/ltex-ls) - LTeX Language Server: LSP language server for LanguageTool :mag::heavy_check_mark: with support for LaTeX :mortar_board:, Markdown :pencil:, and others
@@ -1818,6 +1821,7 @@
 
 ## Others 
 
+- [codedidit/learnanything](https://github.com/codedidit/learnanything) - learn anything prompt framework
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
 - [popcar2/BadWebsiteBlocklist](https://github.com/popcar2/BadWebsiteBlocklist) - A filter that blocks spam & misleading websites from appearing in search results via uBlocklist
 - [continuedev/what-llm-to-use](https://github.com/continuedev/what-llm-to-use) - 👀 What LLM to use?
@@ -2006,6 +2010,10 @@
 
 ## Python 
 
+- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
+- [seal-rg/recurrent-pretraining](https://github.com/seal-rg/recurrent-pretraining) - Pretraining code for a large-scale depth-recurrent language model
+- [dmayboroda/minima](https://github.com/dmayboroda/minima) - On-premises conversational RAG with configurable containers
+- [vivekKodira/logseq_tweaker](https://github.com/vivekKodira/logseq_tweaker) - A python script to find logseq references in journals which are not yet actual files
 - [Grigorij-Dudnik/Clean-Coder-AI](https://github.com/Grigorij-Dudnik/Clean-Coder-AI) - ✅2-in-1 AI Developer and Project Manager. AI agents plan an entire project in Todoist and code it task by task.
 - [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM2 and SmolVLM family of models
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
@@ -2033,7 +2041,6 @@
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [infinigence/Infini-Megrez-Omni](https://github.com/infinigence/Infini-Megrez-Omni) - 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
 - [chubajs/telegram-channel-saver](https://github.com/chubajs/telegram-channel-saver) - Access, download and browse telegram group members and content.
 - [DavidoTek/ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) - Install and manage GE-Proton, Luxtorpeda & more for Steam and Wine-GE & more for Lutris with this graphical user interface.
@@ -2157,7 +2164,8 @@
 
 ## Rust 
 
-- [block/goose](https://github.com/block/goose) - an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [kurotych/sqlant](https://github.com/kurotych/sqlant) - Generate PlantUML/Mermaid ER diagram textual description from SQL connection string
 - [bodo-run/yek](https://github.com/bodo-run/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -2313,11 +2321,16 @@
 
 ## TypeScript 
 
+- [furiousteabag/vram-calculator](https://github.com/furiousteabag/vram-calculator) - Transformer GPU VRAM estimator
+- [gravity-ui/uikit](https://github.com/gravity-ui/uikit) - 
+- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI
+- [j3sch/logseq-clipper](https://github.com/j3sch/logseq-clipper) - A browser extension for capturing web content directly into your Logseq graph. Adapted from Obsidian's Web Clipper.
+- [owengretzinger/hackathon-inspiration](https://github.com/owengretzinger/hackathon-inspiration) - Get inspired by exploring real winning projects from Devpost hackathons
 - [phiresky/isbn-visualization](https://github.com/phiresky/isbn-visualization) - 
 - [phiresky/pandoc-url2cite](https://github.com/phiresky/pandoc-url2cite) - Effortlessly and transparently add correctly styled citations to your markdown paper given only a URL
 - [phiresky/neural-network-demo](https://github.com/phiresky/neural-network-demo) - Demonstration and visualization of feed-forward neural networks running in the browser
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [sammwyy/WRec](https://github.com/sammwyy/WRec) - Capture your screen with high quality and easy sharing from your browser
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
 - [ZeeCoder/use-resize-observer](https://github.com/ZeeCoder/use-resize-observer) - A React hook that allows you to use a ResizeObserver to measure an element's size.
@@ -2530,7 +2543,7 @@
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
 - [intelligentnode/IntelliChat](https://github.com/intelligentnode/IntelliChat) - Modern AI chatbot supporting multiple LLMs. Switch between Gemini, Mistral, Llama, Claude and ChatGPT.
 - [microsoft/keyborg](https://github.com/microsoft/keyborg) - A library that tracks browser keyboard focus state that powers tabster
 - [daltonmenezes/use-exit-intent](https://github.com/daltonmenezes/use-exit-intent) - 🐠 A React Hook to handle exit intent strategies
@@ -2577,7 +2590,7 @@
 - [VKCOM/VKUI](https://github.com/VKCOM/VKUI) - VKUI – это набор React-компонентов, с помощью которых можно создавать интерфейсы, внешне неотличимые от наших iOS и Android приложений.
 - [open-sauced/app](https://github.com/open-sauced/app) - 🍕 Insights into your entire open source ecosystem.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
-- [unjs/unenv](https://github.com/unjs/unenv) - 🕊️ Convert javaScript code to be runtime agnostic
+- [unjs/unenv](https://github.com/unjs/unenv) - 🕊️ Node.js compatibility for any JavaScript runtime, including browsers and edge workers.
 - [lino-levan/astral](https://github.com/lino-levan/astral) - A high-level puppeteer/playwright-like library for Deno
 - [cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages) - CLI to build and develop Next.js apps for Cloudflare Pages
 - [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
@@ -2739,7 +2752,7 @@
 - [zheksoon/dioma](https://github.com/zheksoon/dioma) - Elegant dependency injection container for vanilla JavaScript and TypeScript
 - [johannschopplich/nitro-test-utils](https://github.com/johannschopplich/nitro-test-utils) - 🧪 Testing environment and utilities for Nitro
 - [DaBigBlob/libsql-stateless-easy](https://github.com/DaBigBlob/libsql-stateless-easy) - Thin libSQL stateless HTTP driver for TypeScript and JavaScript for the edge but easy 🚀
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [kossnocorp/superstate](https://github.com/kossnocorp/superstate) - Type-safe JavaScript statecharts library
 - [chroxify/feedbase](https://github.com/chroxify/feedbase) - The open-source solution for collecting feedback & communicating updates.
 - [arcanis/clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library / framework with no runtime dependencies
@@ -2912,7 +2925,7 @@
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. Powered by State Machines
 - [JichouP/obsidian-marp-plugin](https://github.com/JichouP/obsidian-marp-plugin) - Plugin to use Marp with Obsidian
-- [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom f
+- [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - Designed with developers in mind, this powerful package is built on React to create seamless, highly customizable interfaces for your Home Assistant smart home dashboards.
 - [editor-js/paragraph](https://github.com/editor-js/paragraph) - Paragraph Tool for Editor.js 2.0
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [ensdomains/thorin](https://github.com/ensdomains/thorin) - A web3 native design system.
@@ -2922,6 +2935,7 @@
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
 - [plantain-00/type-coverage](https://github.com/plantain-00/type-coverage) - A CLI tool to check type coverage for typescript code
 - [stoplightio/spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML linter for creating automated style guides, with baked in support for OpenAPI (v3.1, v3.0, and v2.0), Arazzo v1.0, as well as AsyncAPI v2.x.
+- [readmeio/oas-examples](https://github.com/readmeio/oas-examples) - A collection of example OpenAPI 3.x and Swagger 2.0 documents.
 - [readmeio/oas](https://github.com/readmeio/oas) - Comprehensive tooling for working with OpenAPI definitions.
 - [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
 - [gosling-lang/gosling.js](https://github.com/gosling-lang/gosling.js) - Grammar of Scalable Linked Interactive Nucleotide Graphics
@@ -3005,6 +3019,7 @@
 - [unjs/untun](https://github.com/unjs/untun) - 🚇 Tunnel your local HTTP(s) server to the world! powered by  Cloudflare Quick Tunnels.
 - [mdx-editor/mdx-editor-in-next-pages](https://github.com/mdx-editor/mdx-editor-in-next-pages) - An example of the editor in Next.js, pages mode
 - [elyorsh-dev/mobx-form-control](https://github.com/elyorsh-dev/mobx-form-control) - 
+- [taiga-family/configurations](https://github.com/taiga-family/configurations) - ESlint, Stylelint and Prettier and more configurations
 - [gjsify/ts-for-gir](https://github.com/gjsify/ts-for-gir) - TypeScript type definition generator for GObject introspection interfaces
 - [eamodio/vscode-toggle-excluded-files](https://github.com/eamodio/vscode-toggle-excluded-files) - Quickly toggles excluded (hidden) files visibility in the file explorer in VS Code
 - [antfu/shikiji](https://github.com/antfu/shikiji) - A syntax highlighter based on TextMate grammars. ESM rewrite of shiki, with more features and capabilities.
@@ -3315,6 +3330,7 @@
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [Nerossoul/anapa-sanata-telegram-bot](https://github.com/Nerossoul/anapa-sanata-telegram-bot) - 
 - [nareshbhatia/nested-routes](https://github.com/nareshbhatia/nested-routes) - Evaluation of nested routes by different frameworks
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort
@@ -3731,7 +3747,6 @@
 - [rjsf-team/react-jsonschema-form](https://github.com/rjsf-team/react-jsonschema-form) - A React component for building Web forms from JSON Schema.
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
-- [KnowledgeExpert/jasmine-cookies](https://github.com/KnowledgeExpert/jasmine-cookies) - Jasmine Extensions
 - [korobochka/jasmine-allure2-reporter](https://github.com/korobochka/jasmine-allure2-reporter) - Jasmine reporter for Allure 2
 - [jest-community/create-jest-runner](https://github.com/jest-community/create-jest-runner) - A highly opinionated way for creating Jest Runners
 - [argos-ci/jest-puppeteer](https://github.com/argos-ci/jest-puppeteer) - Run tests using Jest & Puppeteer 🎪✨
