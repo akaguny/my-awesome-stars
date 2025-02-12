@@ -277,6 +277,7 @@
 
 ## ai 
 
+- [dmayboroda/minima](https://github.com/dmayboroda/minima) - On-premises conversational RAG with configurable containers
 - [Grigorij-Dudnik/Clean-Coder-AI](https://github.com/Grigorij-Dudnik/Clean-Coder-AI) - ✅2-in-1 AI Developer and Project Manager. AI agents plan an entire project in Todoist and code it task by task.
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
@@ -633,7 +634,7 @@
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [mohebifar/react-unforget](https://github.com/mohebifar/react-unforget) - Use React Compiler instead ⚠️ A compiler for automatic optimization of React apps
 - [jonschlinkert/eval-estree-expression](https://github.com/jonschlinkert/eval-estree-expression) - Safely evaluate JavaScript (estree) expressions, sync and async.
-- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, flow, markdown, yaml and json. W
+- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, markdown, yaml and json. Write d
 - [jaywcjlove/tsbb](https://github.com/jaywcjlove/tsbb) - TSBB is a CLI tool for developing, testing and publishing modern TypeScript projects with zero configuration, and can also be used for module or react component development. @tsbbjs
 - [weiran-zsd/dts-cli](https://github.com/weiran-zsd/dts-cli) - Zero-config CLI for TypeScript package development
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
@@ -740,6 +741,7 @@
 
 ## c-plus-plus 
 
+- [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [bbidulock/icewm](https://github.com/bbidulock/icewm) - A window manager designed for speed, usability, and consistency
 - [alexbatalov/fallout1-ce](https://github.com/alexbatalov/fallout1-ce) - Fallout for modern operating systems
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
@@ -773,7 +775,7 @@
 
 ## chatgpt 
 
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -1128,7 +1130,6 @@
 - [astroturfcss/astroturf](https://github.com/astroturfcss/astroturf) - Better Styling through Compiling: CSS-in-JS for those that want it all.
 - [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
-- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [thomaspark/gridgarden](https://github.com/thomaspark/gridgarden) - A game for learning CSS grid layout 🥕
 - [CyberLight/caninclude-v2](https://github.com/CyberLight/caninclude-v2) - (v2) CAN I INCLUDE one TAG to ANOTHER? WHAT IS A QUESTION! Yorik (c) :)
 - [1-2-3/remark-it](https://github.com/1-2-3/remark-it) - markdown -&gt; slideshow ——Write PPT like a programmer
@@ -1270,6 +1271,7 @@
 
 ## deno 
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [c4spar/deno-cliffy](https://github.com/c4spar/deno-cliffy) - Command line framework for deno 🦕 Including Commandline-Interfaces, Prompts, CLI-Table, Arguments Parser and more...
 - [dahlia/logtape](https://github.com/dahlia/logtape) - Simple logging library with zero dependencies for Deno, Node.js, Bun, browsers, and edge functions
 - [lino-levan/astral](https://github.com/lino-levan/astral) - A high-level puppeteer/playwright-like library for Deno
@@ -1338,6 +1340,7 @@
 
 ## docker 
 
+- [dmayboroda/minima](https://github.com/dmayboroda/minima) - On-premises conversational RAG with configurable containers
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 - [podman-desktop/podman-desktop](https://github.com/podman-desktop/podman-desktop) - Podman Desktop is the best free and open source tool to work with Containers and Kubernetes for developers. Get an intuitive and user-friendly interface to effortlessly build, manage, and deploy conta
@@ -1583,7 +1586,7 @@
 - [amilajack/eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) - Check the browser compatibility of your code
 - [TypeStrong/fork-ts-checker-webpack-plugin](https://github.com/TypeStrong/fork-ts-checker-webpack-plugin) - Webpack plugin that runs typescript type checker on a separate process.
 - [playwright-community/eslint-plugin-playwright](https://github.com/playwright-community/eslint-plugin-playwright) - ESLint plugin for Playwright
-- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, flow, markdown, yaml and json. W
+- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, markdown, yaml and json. Write d
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [kbysiec/vite-vanilla-ts-lib-starter](https://github.com/kbysiec/vite-vanilla-ts-lib-starter) - The starter is built on top of Vite 5.x and prepared for writing libraries in TypeScript. It generates a package with support for ESM modules and IIFE.
 - [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
@@ -1796,6 +1799,7 @@
 
 ## game-engine 
 
+- [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [ChibiEngine/ChibiEngine](https://github.com/ChibiEngine/ChibiEngine) - [WIP] Web Game Engine made on top of PixiJS
 - [KilledByAPixel/LittleJS](https://github.com/KilledByAPixel/LittleJS) - LittleJS is the tiny fast HTML5 game engine with many features and no dependencies. 🚂 Choo-Choo!
 - [beetrootpaul/beetpx](https://github.com/beetrootpaul/beetpx) - A TypeScript engine for pixel art browser games
@@ -1852,6 +1856,7 @@
 
 ## git 
 
+- [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) - Android mobile git client for syncing a repository between remote and a local directory
 - [haydenull/logseq-plugin-git](https://github.com/haydenull/logseq-plugin-git) - A git plugin for logseq
 - [lostintangent/gitdoc](https://github.com/lostintangent/gitdoc) - VS Code extension that allows you to edit a Git repo, like it's a multi-file, versioned document.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - 🦄 A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
@@ -2094,6 +2099,7 @@
 
 ## hacktoberfest 
 
+- [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [EricSmekens/jsep](https://github.com/EricSmekens/jsep) - JavaScript Expression Parser
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
@@ -2211,7 +2217,7 @@
 - [flightcontrolhq/superjson](https://github.com/flightcontrolhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
-- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, flow, markdown, yaml and json. W
+- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, markdown, yaml and json. Write d
 - [danilowoz/react-content-loader](https://github.com/danilowoz/react-content-loader) - ⚪ SVG-Powered component to easily create skeleton loadings.
 - [metarhia/metalog](https://github.com/metarhia/metalog) - Metarhia logger 📝
 - [Schniz/cmd-ts](https://github.com/Schniz/cmd-ts) - 💻 A type-driven command line argument parser
@@ -2369,7 +2375,7 @@
 - [hassio-addons/addon-airsonos](https://github.com/hassio-addons/addon-airsonos) - AirSonos - Home Assistant Community Add-ons
 - [hassio-addons/addon-aircast](https://github.com/hassio-addons/addon-aircast) - AirCast - Home Assistant Community Add-ons
 - [piitaya/lovelace-mushroom](https://github.com/piitaya/lovelace-mushroom) - Build a beautiful Home Assistant dashboard easily
-- [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom f
+- [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - Designed with developers in mind, this powerful package is built on React to create seamless, highly customizable interfaces for your Home Assistant smart home dashboards.
 - [tjhorner/upsy-desky](https://github.com/tjhorner/upsy-desky) - Make your standing desk smarter
 - [dext0r/yandex_smart_home](https://github.com/dext0r/yandex_smart_home) - Управление устройствами из Home Assistant через Алису (Умный дом Яндекса) или Марусю
 - [AlexxIT/YandexStation](https://github.com/AlexxIT/YandexStation) - Управление Яндекс.Станцией и другими устройствами умного дома с Алисой из Home Assistant
@@ -2405,7 +2411,6 @@
 - [inikulin/parse5](https://github.com/inikulin/parse5) - HTML parsing/serialization toolset for Node.js. WHATWG HTML Living Standard (aka HTML5)-compliant.
 - [YauhenKavalchuk/interview-questions](https://github.com/YauhenKavalchuk/interview-questions) - Популярные HTML / CSS / JavaScript / ECMAScript / TypeScript / React / Vue / Angular / Node вопросы на интервью и ответы на них (https://tinyurl.com/wxysrpsy)
 - [yegor256/tacit](https://github.com/yegor256/tacit) - CSS framework for dummies, without a single CSS class: nicely renders properly formatted HTML5 pages
-- [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [yairEO/tagify](https://github.com/yairEO/tagify) - 🔖 lightweight, efficient Tags input component in Vanilla JS / React / Angular / Vue
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [asciidoctor/asciidoctor](https://github.com/asciidoctor/asciidoctor) - :gem: A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.
@@ -2510,6 +2515,7 @@
 ## instagram 
 
 - [dilame/instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [girliemac/filterous-2](https://github.com/girliemac/filterous-2) - Instagram-like photo manipulation library for Node.js and Javascript on browser
@@ -2569,6 +2575,7 @@
 
 ## javascript 
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [devrnt/react-use-intercom](https://github.com/devrnt/react-use-intercom) - ☎️  React Intercom integration without the hassle, powered by hooks.
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
 - [EricSmekens/jsep](https://github.com/EricSmekens/jsep) - JavaScript Expression Parser
@@ -2757,7 +2764,7 @@
 - [testing-library/react-hooks-testing-library](https://github.com/testing-library/react-hooks-testing-library) - 🐏 Simple and complete React hooks testing utilities that encourage good testing practices.
 - [tshemsedinov/NodeJS-Interview-Questions](https://github.com/tshemsedinov/NodeJS-Interview-Questions) - NodeJS ✨🐢🚀✨ вопросы для собеседований
 - [flightcontrolhq/superjson](https://github.com/flightcontrolhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
-- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, flow, markdown, yaml and json. W
+- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, markdown, yaml and json. Write d
 - [KudoAI/chatgpt.js](https://github.com/KudoAI/chatgpt.js) - 🤖 A powerful, open source client-side JavaScript library for ChatGPT
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [ElliotNB/nimbly](https://github.com/ElliotNB/nimbly) - Nimbly is a JavaScript component framework for single page applications.
@@ -3334,6 +3341,7 @@
 
 ## llm 
 
+- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models
 - [Open-Prompting/Knowledge-Base](https://github.com/Open-Prompting/Knowledge-Base) - Открытая база знаний о нейросетях
 - [continuedev/what-llm-to-use](https://github.com/continuedev/what-llm-to-use) - 👀 What LLM to use?
 - [bodo-run/yek](https://github.com/bodo-run/yek) - A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption
@@ -3412,6 +3420,7 @@
 
 ## lua 
 
+- [luanti-org/luanti](https://github.com/luanti-org/luanti) - Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation
 - [igorlfs/nvim-dap-view](https://github.com/igorlfs/nvim-dap-view) - Visualize debugging sessions in neovim!
 - [a327ex/SNKRX](https://github.com/a327ex/SNKRX) - A replayable arcade shooter where you control a snake of heroes.
 - [fengari-lua/fengari](https://github.com/fengari-lua/fengari) - 🌙 φεγγάρι - The Lua VM written in JS ES6 for Node and the browser
@@ -3650,7 +3659,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching solution for Node.js applications
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [mtxr/vscode-sqltools](https://github.com/mtxr/vscode-sqltools) - Database management for VSCode
@@ -3698,7 +3707,8 @@
 
 ## nextjs 
 
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- [owengretzinger/hackathon-inspiration](https://github.com/owengretzinger/hackathon-inspiration) - Get inspired by exploring real winning projects from Devpost hackathons
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [devrnt/react-use-intercom](https://github.com/devrnt/react-use-intercom) - ☎️  React Intercom integration without the hassle, powered by hooks.
 - [TuanManhCao/digital-garden](https://github.com/TuanManhCao/digital-garden) - Free Obisidian Publish alternative, for publishing your digital garden.
 - [al1abb/invoify](https://github.com/al1abb/invoify) - An invoice generator app built using Next.js, Typescript, and Shadcn
@@ -3721,7 +3731,7 @@
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [leerob/site](https://github.com/leerob/site) - My site built with Next.js, Tailwind, and Vercel.
 - [9d8dev/next-wp](https://github.com/9d8dev/next-wp) - Headless WordPress built with the Next.js App Router and React Server Components
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
 - [intelligentnode/IntelliChat](https://github.com/intelligentnode/IntelliChat) - Modern AI chatbot supporting multiple LLMs. Switch between Gemini, Mistral, Llama, Claude and ChatGPT.
 - [daltonmenezes/use-exit-intent](https://github.com/daltonmenezes/use-exit-intent) - 🐠 A React Hook to handle exit intent strategies
 - [Harry-Ross/llama-chat-nextjs](https://github.com/Harry-Ross/llama-chat-nextjs) - A Next.js chat app to use Llama 2 locally using node-llama-cpp
@@ -3741,7 +3751,7 @@
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - Shadcn table with server-side sorting, filtering, and pagination.
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [chroxify/feedbase](https://github.com/chroxify/feedbase) - The open-source solution for collecting feedback & communicating updates.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
 - [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) - 🚀🎉📚 Boilerplate and Starter for Next.js 15 with App Router and Page Router support, Tailwind CSS 4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Dr
@@ -3998,7 +4008,7 @@
 - [nodejs/Release](https://github.com/nodejs/Release) - Node.js Release Working Group
 - [franjsco/trackmyd-bot](https://github.com/franjsco/trackmyd-bot) - A telegram bot to track your devices with GPS.
 - [tshemsedinov/NodeJS-Interview-Questions](https://github.com/tshemsedinov/NodeJS-Interview-Questions) - NodeJS ✨🐢🚀✨ вопросы для собеседований
-- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, flow, markdown, yaml and json. W
+- [coderaiser/putout](https://github.com/coderaiser/putout) - 🐊  Pluggable and configurable JavaScript Linter, code transformer and formatter, drop-in ESLint superpower replacement 💪 with built-in support for js, jsx, typescript, markdown, yaml and json. Write d
 - [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 - [metarhia/metalog](https://github.com/metarhia/metalog) - Metarhia logger 📝
 - [Schniz/cmd-ts](https://github.com/Schniz/cmd-ts) - 💻 A type-driven command line argument parser
@@ -4218,7 +4228,7 @@
 - [Metastem/Wikiless](https://github.com/Metastem/Wikiless) - Wikiless is a free, open-source Wikipedia alternative, focused on privacy. The project aims to deliver a more secure, anonymous browsing experience by minimizing data collection and tracking, ensuring
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [sadmann7/shadcn-table](https://github.com/sadmann7/shadcn-table) - Shadcn table with server-side sorting, filtering, and pagination.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [chroxify/feedbase](https://github.com/chroxify/feedbase) - The open-source solution for collecting feedback & communicating updates.
 - [4ian/GDevelop](https://github.com/4ian/GDevelop) - 🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
@@ -4315,6 +4325,16 @@
 
 ## others 
 
+- [furiousteabag/vram-calculator](https://github.com/furiousteabag/vram-calculator) - Transformer GPU VRAM estimator
+- [seal-rg/recurrent-pretraining](https://github.com/seal-rg/recurrent-pretraining) - Pretraining code for a large-scale depth-recurrent language model
+- [LunarEclipse363/agewasm](https://github.com/LunarEclipse363/agewasm) - A simple and secure online client-side Age key generator, encryption and decryption tool built using wasm
+- [vivekKodira/logseq_tweaker](https://github.com/vivekKodira/logseq_tweaker) - A python script to find logseq references in journals which are not yet actual files
+- [fireducks-dev/fireducks](https://github.com/fireducks-dev/fireducks) - Create an issue on FireDucks
+- [gravity-ui/uikit](https://github.com/gravity-ui/uikit) - 
+- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source prompt engineering platform to build, evaluate, and refine your prompts with AI
+- [j3sch/logseq-clipper](https://github.com/j3sch/logseq-clipper) - A browser extension for capturing web content directly into your Logseq graph. Adapted from Obsidian's Web Clipper.
+- [codedidit/learnanything](https://github.com/codedidit/learnanything) - learn anything prompt framework
+- [patorjk/image-quilter](https://github.com/patorjk/image-quilter) - Image quilting implementation.
 - [phiresky/isbn-visualization](https://github.com/phiresky/isbn-visualization) - 
 - [phiresky/pandoc-url2cite](https://github.com/phiresky/pandoc-url2cite) - Effortlessly and transparently add correctly styled citations to your markdown paper given only a URL
 - [phiresky/neural-network-demo](https://github.com/phiresky/neural-network-demo) - Demonstration and visualization of feed-forward neural networks running in the browser
@@ -4325,7 +4345,7 @@
 - [modelcontextprotocol/typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) - The official Typescript SDK for Model Context Protocol servers and clients
 - [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube) - A Model-Context Protocol Server for YouTube
 - [ekmas/cs16.css](https://github.com/ekmas/cs16.css) - CSS library based on Counter Strike 1.6 UI.
-- [block/goose](https://github.com/block/goose) - an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [ant-design/happy-work-theme](https://github.com/ant-design/happy-work-theme) - 
 - [ahrm/voil](https://github.com/ahrm/voil) - 
 - [tailscale-dev/tclip](https://github.com/tailscale-dev/tclip) - A pastebin for Tailscale users
@@ -4603,7 +4623,7 @@
 - [editor-js/text-variant-tune](https://github.com/editor-js/text-variant-tune) - Block Tune for text variants: Call-out, Citation, Details
 - [pshergie/prator](https://github.com/pshergie/prator) - Add review comments to your pull requests based on changes
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
-- [unjs/unenv](https://github.com/unjs/unenv) - 🕊️ Convert javaScript code to be runtime agnostic
+- [unjs/unenv](https://github.com/unjs/unenv) - 🕊️ Node.js compatibility for any JavaScript runtime, including browsers and edge workers.
 - [sindresorhus/to-rotated](https://github.com/sindresorhus/to-rotated) - Rotate an array by a given number of steps
 - [measuredco/puck](https://github.com/measuredco/puck) - The visual editor for React
 - [Aeolun/ts-jira-client](https://github.com/Aeolun/ts-jira-client) - A Typescript wrapper for the Jira Rest API
@@ -5750,7 +5770,6 @@
 - [chrismaltby/gb-studio](https://github.com/chrismaltby/gb-studio) - A quick and easy to use drag and drop retro game creator for your favourite handheld video game system
 - [rundef/node-testrail-api](https://github.com/rundef/node-testrail-api) - API wrapper for TestRail
 - [davglass/license-checker](https://github.com/davglass/license-checker) - Check NPM package licenses
-- [KnowledgeExpert/jasmine-cookies](https://github.com/KnowledgeExpert/jasmine-cookies) - Jasmine Extensions
 - [allure-framework/allure-jasmine](https://github.com/allure-framework/allure-jasmine) - Deprecated, use https://github.com/allure-framework/allure-js instead
 - [jest-community/create-jest-runner](https://github.com/jest-community/create-jest-runner) - A highly opinionated way for creating Jest Runners
 - [mattphillips/jest-expect-message](https://github.com/mattphillips/jest-expect-message) - Add custom message to Jest expects 🃏🗯
@@ -5927,6 +5946,7 @@
 
 ## postgresql 
 
+- [owengretzinger/hackathon-inspiration](https://github.com/owengretzinger/hackathon-inspiration) - Get inspired by exploring real winning projects from Devpost hackathons
 - [kurotych/sqlant](https://github.com/kurotych/sqlant) - Generate PlantUML/Mermaid ER diagram textual description from SQL connection string
 - [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ NodeJS E-commerce Platform
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
@@ -6130,7 +6150,7 @@
 
 ## react 
 
-- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [ZeeCoder/use-resize-observer](https://github.com/ZeeCoder/use-resize-observer) - A React hook that allows you to use a ResizeObserver to measure an element's size.
 - [devrnt/react-use-intercom](https://github.com/devrnt/react-use-intercom) - ☎️  React Intercom integration without the hassle, powered by hooks.
 - [verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch) - 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
@@ -6193,7 +6213,7 @@
 - [alishobeiri/thread](https://github.com/alishobeiri/thread) - AI-powered Jupyter Notebook — use local AI to generate and edit code cells, automatically fix errors, and chat with your data
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
 - [vadikoom/react-singleton-hook](https://github.com/vadikoom/react-singleton-hook) - Create singleton hook from regular react hook
 - [daltonmenezes/use-exit-intent](https://github.com/daltonmenezes/use-exit-intent) - 🐠 A React Hook to handle exit intent strategies
 - [jaredLunde/react-hook](https://github.com/jaredLunde/react-hook) - ↩ Strongly typed, concurrent mode-safe React hooks
@@ -6273,7 +6293,7 @@
 - [pomber/didact](https://github.com/pomber/didact) - A DIY guide to build your own React
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [chakra-ui/ark](https://github.com/chakra-ui/ark) - Build your design system with React, Svelte, Vue, and Solid. Powered by State Machines
-- [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom f
+- [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - Designed with developers in mind, this powerful package is built on React to create seamless, highly customizable interfaces for your Home Assistant smart home dashboards.
 - [plasmicapp/plasmic](https://github.com/plasmicapp/plasmic) - Visual builder for React. Build apps, websites, and content. Integrate with your codebase.
 - [arwes/arwes](https://github.com/arwes/arwes) - Futuristic Sci-Fi UI Web Framework.
 - [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
@@ -6798,6 +6818,7 @@
 
 ## rust 
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [kurotych/sqlant](https://github.com/kurotych/sqlant) - Generate PlantUML/Mermaid ER diagram textual description from SQL connection string
 - [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android
 - [mufeedvh/code2prompt](https://github.com/mufeedvh/code2prompt) - A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.
@@ -7153,6 +7174,7 @@
 
 ## tailwindcss 
 
+- [owengretzinger/hackathon-inspiration](https://github.com/owengretzinger/hackathon-inspiration) - Get inspired by exploring real winning projects from Devpost hackathons
 - [badass-courses/course-builder](https://github.com/badass-courses/course-builder) - 🍄 platform for building Badass Courses
 - [mfts/papermark](https://github.com/mfts/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [baptisteArno/typebot.io](https://github.com/baptisteArno/typebot.io) - 💬 Typebot is a powerful chatbot builder that you can self-host.
@@ -7163,13 +7185,13 @@
 - [chaqchase/react-video](https://github.com/chaqchase/react-video) - A react video component for a unified and customizable playback experience across browsers [Inspired by appleTV video player]
 - [PrasadBroo/ChatGPT](https://github.com/PrasadBroo/ChatGPT) - Multiple chats completions simultaneously 😲 Send chat with/without history 🧐 Image generation 🎨 Choose model from a variety of GPT-3/GPT-4 models 😃 Stores your chats in local storage 👀 Same user inter
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
-- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
 - [nolly-studio/cult-ui](https://github.com/nolly-studio/cult-ui) - Components crafted for Design Engineers. Styled using Tailwind CSS, fully compatible with Shadcn, and easy to integrate—just copy and paste. MIT 🤌
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
 - [dailydotdev/apps](https://github.com/dailydotdev/apps) - daily.dev application suite
 - [brandonmcconnell/tailwindcss-signals](https://github.com/brandonmcconnell/tailwindcss-signals) - Signals for Tailwind CSS simplifies styling based on ancestor state via style queries. Its declarative API for signaling states eliminates complex selectors, resulting in cleaner, more maintainable co
 - [deco-cx/deco](https://github.com/deco-cx/deco) - Git-based Visual CMS for Deno, &lt;/&gt; htmx and Tailwind apps. Deploy on any Deno-compatible host.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [chroxify/feedbase](https://github.com/chroxify/feedbase) - The open-source solution for collecting feedback & communicating updates.
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [miurla/morphic](https://github.com/miurla/morphic) - An AI-powered search engine with a generative UI
@@ -7319,6 +7341,8 @@
 
 ## typescript 
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+- [owengretzinger/hackathon-inspiration](https://github.com/owengretzinger/hackathon-inspiration) - Get inspired by exploring real winning projects from Devpost hackathons
 - [devrnt/react-use-intercom](https://github.com/devrnt/react-use-intercom) - ☎️  React Intercom integration without the hassle, powered by hooks.
 - [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Essential React custom hooks ⚓ to super charge your components!
 - [steveiliop56/tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
@@ -7423,7 +7447,7 @@
 - [deco-cx/deco](https://github.com/deco-cx/deco) - Git-based Visual CMS for Deno, &lt;/&gt; htmx and Tailwind apps. Deploy on any Deno-compatible host.
 - [remusao/tldts](https://github.com/remusao/tldts) - JavaScript Library to extract domains, subdomains and public suffixes from complex URIs.
 - [zheksoon/dioma](https://github.com/zheksoon/dioma) - Elegant dependency injection container for vanilla JavaScript and TypeScript
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [chroxify/feedbase](https://github.com/chroxify/feedbase) - The open-source solution for collecting feedback & communicating updates.
 - [arcanis/clipanion](https://github.com/arcanis/clipanion) - Type-safe CLI library / framework with no runtime dependencies
 - [CarterGrimmeisen/zod-prisma](https://github.com/CarterGrimmeisen/zod-prisma) - A custom prisma generator that creates Zod schemas from your Prisma model.
@@ -7467,7 +7491,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder
 - [JichouP/obsidian-marp-plugin](https://github.com/JichouP/obsidian-marp-plugin) - Plugin to use Marp with Obsidian
-- [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - A Home Assistant React component library to generate dashboards with ease, This utilizises a massive list of Components / cards to use out of the box, a large range of hooks to build your own custom f
+- [shannonhochkins/ha-component-kit](https://github.com/shannonhochkins/ha-component-kit) - Designed with developers in mind, this powerful package is built on React to create seamless, highly customizable interfaces for your Home Assistant smart home dashboards.
 - [connectrpc/connect-es](https://github.com/connectrpc/connect-es) - The TypeScript implementation of Connect: Protobuf RPC that works.
 - [gosling-lang/gosling.js](https://github.com/gosling-lang/gosling.js) - Grammar of Scalable Linked Interactive Nucleotide Graphics
 - [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
